@@ -1,2 +1,2 @@
 # Portfolio-Tailwind-GSAP
-Portfolio Website with Tailwind CSS and GSAP
+Portfolio Website made with Tailwind CSS and GSAP
